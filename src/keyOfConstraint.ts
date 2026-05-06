@@ -4,6 +4,7 @@ type RichPeoplesVehicle = {
   car: string; // key: value
   bike: string;
   cng: string;
+  ship: string;
 };
 
 type MyVehicle1 = "bike" | "car" | "cng";
